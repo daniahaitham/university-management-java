@@ -1,0 +1,7 @@
+target/
+out/
+*.class
+.classpath
+.project
+.settings/
+data/*.txt
